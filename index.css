@@ -1,0 +1,146 @@
+$blue: #a3d5d3;
+
+body {
+  background-color: black;
+  color: black;
+  font-family: arial; 
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/EFODv5zYgijxtshlo/videoblocks-science-technology-background-with-double-helix-strand_hhxcmbhgbz_thumbnail-full01.png);
+  background-repeat: repeat;
+         }
+#bioinformatics {
+ color: white;
+ background-color: black;
+}
+#my-menu {
+  font-family: calibri;
+  font-weight: bold;
+  font-size: 22px;
+  background-color: black;
+  color: white
+}
+#dna2 {
+  padding: 0px 50px 0px 20px;
+}
+#dna3 {
+  padding: 0px 50px 0px 20px;
+}
+#dna4 {
+   padding: 0px 50px 0px 20px;
+}
+#dna5 {
+   padding: 20px 100px 50px 20px;
+}
+#contents {
+  background-color: black;
+  color: white;
+}
+#introduction {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+#history{
+  background-color: black;
+  color: white;
+}
+#sequences{
+  background-color: black;
+  color: white;
+}
+#goals{
+  background-color: black;
+  color: white;
+}
+#relation-to-other-fields{
+  background-color: black;
+  color: white;
+}
+#sequence-analysis {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+#dna-sequencing {
+  background-color: black;
+  color: white;
+}
+#sequence-assembly {
+  background-color: black;
+  color: white;
+}
+#genome-annotation {
+  background-color: black;
+  color: white;
+}
+#computational-evolutionary-biology {
+  background-color: black;
+  color: white;
+}
+#comparative-genomics {
+  background-color: black;
+  color: white;
+}
+#pan-genomics {
+  background-color: black;
+  color: white;
+}
+#genetics-of-disease {
+  background-color: black;
+  color: white;
+}
+#analysis-of-mutation-in-cancer {
+  background-color: black;
+  color: white;
+}
+#gene-and-protein-expression {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+#analysis-of-gene-expression {
+  background-color: black;
+  color: white;
+}
+#analysis-of-protein-expression {
+background-color: black;
+  color: white;
+}
+#analysis-of-regulation {
+  background-color: black;
+  color: white;
+}
+#analysis-of-cellular-organization {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+#microscopy-and-image-analysis {
+  background-color: black;
+  color: white;
+}
+#protein-locatization {
+  background-color: black;
+  color: white;
+}
+#nuclear-organization-of-chromatin {
+  background-color: black;
+  color: white;
+}
+#structural-bioinformatics {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+#network-and-systems-biology {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+#molecular-interaction-networks {
+  background-color: black;
+  color: white;
+}
+#contact {
+  background-color: black;
+  color: white;
+}
